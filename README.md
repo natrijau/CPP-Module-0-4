@@ -49,6 +49,8 @@ Chaque module explore des concepts spécifiques du C++. Cliquez sur un lien pour
 
 ## Installation et utilisation
 
+# Exemple module 00
+
 1. Clonez le dépôt :
    ```bash
    git clone <lien-du-depot>
